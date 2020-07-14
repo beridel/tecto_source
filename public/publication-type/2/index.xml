@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | William Frank @ MIT</title>
+    <link>https://beridel.github.io/publication-type/2/</link>
+      <atom:link href="https://beridel.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://beridel.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://beridel.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>The transient and intermittent nature of slow slip</title>
+      <link>https://beridel.github.io/publication/jolivet-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/jolivet-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moment-duration scaling of low-frequency earthquakes in Guerrero, Mexico</title>
+      <link>https://beridel.github.io/publication/farge-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/farge-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical evidence of a seismic quiescence before the M$_w$8.1 Iquique earthquake, Chile</title>
+      <link>https://beridel.github.io/publication/aden-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/aden-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daily measurement of slow slip from low-frequency earthquakes is consistent with ordinary earthquake scaling</title>
+      <link>https://beridel.github.io/publication/frank-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Detection of Clustered Seismicity Beneath the Southwestern Alps</title>
+      <link>https://beridel.github.io/publication/beauce-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/beauce-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isolated Triggered Tremor Spots in South America: Southern Chile, Ecuador, and Central Colombia</title>
+      <link>https://beridel.github.io/publication/chao-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/chao-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characteristic tectonic tremor activity observed over multiple slow slip cycles in the Mexican subduction zone</title>
+      <link>https://beridel.github.io/publication/husker-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/husker-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Updip and along-strike aftershock migration model driven by afterslip: application to the 2011 Tohoku-Oki aftershock sequence</title>
+      <link>https://beridel.github.io/publication/perfettini-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/perfettini-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revealing the cluster of slow transients behind a large slow slip event</title>
+      <link>https://beridel.github.io/publication/frank-2018-c/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2018-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive reactivation of the volcanic plumbing system beneath Tolbachik volcano (Kamchatka, Russia) revealed by long-period seismicity</title>
+      <link>https://beridel.github.io/publication/frank-2018-b/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model for migration of aftershocks driven by afterslip</title>
+      <link>https://beridel.github.io/publication/perfettini-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/perfettini-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adapting the matched-filter search to a wide-aperture network: an aftershock sequence and an earthquake swarm in Connecticut</title>
+      <link>https://beridel.github.io/publication/frank-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast matched-filter (FMF): an efficient seismic matched-filter search for both CPU and GPU architectures</title>
+      <link>https://beridel.github.io/publication/beauce-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/beauce-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imbricated slip rate processes during slow slip transients imaged by low-frequency earthquakes</title>
+      <link>https://beridel.github.io/publication/lengline-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/lengline-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A geodetic matched-filter search for slow slip with application to the Mexico subduction zone</title>
+      <link>https://beridel.github.io/publication/rousset-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/rousset-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the rheology of the Central Chile subduction zone with aftershocks</title>
+      <link>https://beridel.github.io/publication/frank-2017-a/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2017-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repeating seismicity in the shallow crust modulated by transient stress perturbations</title>
+      <link>https://beridel.github.io/publication/frank-2016-b/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slow slip hidden in the noise: the intermittence of tectonic release</title>
+      <link>https://beridel.github.io/publication/frank-2016-c/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2016-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The evolving interaction of low-frequency earthquakes during transient slip</title>
+      <link>https://beridel.github.io/publication/frank-2016-a/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial-temporal variation of low-frequency earthquake bursts near Parkfield, California</title>
+      <link>https://beridel.github.io/publication/wu-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/wu-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering the geodetic signature of silent slip through repeating earthquakes</title>
+      <link>https://beridel.github.io/publication/frank-2015-b/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Along-fault pore-pressure evolution during a slow-slip event in Guerrero, Mexico</title>
+      <link>https://beridel.github.io/publication/frank-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using systematically characterized low-frequency earthquakes as a fault probe in Guerrero, Mexico</title>
+      <link>https://beridel.github.io/publication/frank-2014-b/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic detection of low-frequency earthquakes (LFEs) based on a beamformed network response</title>
+      <link>https://beridel.github.io/publication/frank-2014-a/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2014-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-frequency earthquakes in the Mexican Sweet Spot</title>
+      <link>https://beridel.github.io/publication/frank-2013/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

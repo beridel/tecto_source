@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michel Campillo | William Frank @ MIT</title>
+    <link>https://beridel.github.io/author/michel-campillo/</link>
+      <atom:link href="https://beridel.github.io/author/michel-campillo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michel Campillo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://beridel.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Michel Campillo</title>
+      <link>https://beridel.github.io/author/michel-campillo/</link>
+    </image>
+    
+    <item>
+      <title>Systematic Detection of Clustered Seismicity Beneath the Southwestern Alps</title>
+      <link>https://beridel.github.io/publication/beauce-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/beauce-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revealing the cluster of slow transients behind a large slow slip event</title>
+      <link>https://beridel.github.io/publication/frank-2018-c/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2018-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A geodetic matched-filter search for slow slip with application to the Mexico subduction zone</title>
+      <link>https://beridel.github.io/publication/rousset-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/rousset-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Repeating seismicity in the shallow crust modulated by transient stress perturbations</title>
+      <link>https://beridel.github.io/publication/frank-2016-b/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2016-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The evolving interaction of low-frequency earthquakes during transient slip</title>
+      <link>https://beridel.github.io/publication/frank-2016-a/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering the geodetic signature of silent slip through repeating earthquakes</title>
+      <link>https://beridel.github.io/publication/frank-2015-b/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2015-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Along-fault pore-pressure evolution during a slow-slip event in Guerrero, Mexico</title>
+      <link>https://beridel.github.io/publication/frank-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using systematically characterized low-frequency earthquakes as a fault probe in Guerrero, Mexico</title>
+      <link>https://beridel.github.io/publication/frank-2014-b/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-frequency earthquakes in the Mexican Sweet Spot</title>
+      <link>https://beridel.github.io/publication/frank-2013/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexey Romanenko | William Frank @ MIT</title>
+    <link>https://beridel.github.io/author/alexey-romanenko/</link>
+      <atom:link href="https://beridel.github.io/author/alexey-romanenko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexey Romanenko</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://beridel.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Alexey Romanenko</title>
+      <link>https://beridel.github.io/author/alexey-romanenko/</link>
+    </image>
+    
+    <item>
+      <title>Fast matched-filter (FMF): an efficient seismic matched-filter search for both CPU and GPU architectures</title>
+      <link>https://beridel.github.io/publication/beauce-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/beauce-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using systematically characterized low-frequency earthquakes as a fault probe in Guerrero, Mexico</title>
+      <link>https://beridel.github.io/publication/frank-2014-b/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2014-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

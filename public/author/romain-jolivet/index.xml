@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Romain Jolivet | William Frank @ MIT</title>
+    <link>https://beridel.github.io/author/romain-jolivet/</link>
+      <atom:link href="https://beridel.github.io/author/romain-jolivet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Romain Jolivet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://beridel.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Romain Jolivet</title>
+      <link>https://beridel.github.io/author/romain-jolivet/</link>
+    </image>
+    
+    <item>
+      <title>The transient and intermittent nature of slow slip</title>
+      <link>https://beridel.github.io/publication/jolivet-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/jolivet-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cécile Lasserre | William Frank @ MIT</title>
+    <link>https://beridel.github.io/author/cecile-lasserre/</link>
+      <atom:link href="https://beridel.github.io/author/cecile-lasserre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cécile Lasserre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://beridel.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Cécile Lasserre</title>
+      <link>https://beridel.github.io/author/cecile-lasserre/</link>
+    </image>
+    
+    <item>
+      <title>Revealing the cluster of slow transients behind a large slow slip event</title>
+      <link>https://beridel.github.io/publication/frank-2018-c/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/frank-2018-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A geodetic matched-filter search for slow slip with application to the Mexico subduction zone</title>
+      <link>https://beridel.github.io/publication/rousset-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/rousset-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michel Bouchon | William Frank @ MIT</title>
+    <link>https://beridel.github.io/author/michel-bouchon/</link>
+      <atom:link href="https://beridel.github.io/author/michel-bouchon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michel Bouchon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://beridel.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Michel Bouchon</title>
+      <link>https://beridel.github.io/author/michel-bouchon/</link>
+    </image>
+    
+    <item>
+      <title>Updip and along-strike aftershock migration model driven by afterslip: application to the 2011 Tohoku-Oki aftershock sequence</title>
+      <link>https://beridel.github.io/publication/perfettini-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/perfettini-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model for migration of aftershocks driven by afterslip</title>
+      <link>https://beridel.github.io/publication/perfettini-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://beridel.github.io/publication/perfettini-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
