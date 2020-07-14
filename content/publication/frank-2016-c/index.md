@@ -1,0 +1,12 @@
+---
+title: "Slow slip hidden in the noise: the intermittence of tectonic release"
+date: 2016-09-01
+publishDate: 2020-07-14T17:59:35.757317Z
+authors: ["wbfrank"]
+publication_types: ["2"]
+abstract: "Referred to as slow slip events, the transient aseismic slip that occurs along plate boundaries can be indirectly characterized through colocated seismicity, such as tectonic tremor and low-frequency earthquakes (LFEs). Using the timing of cataloged LFE and tremor activity in Guerrero, Mexico, and northern Cascadia, I decompose the interaseismic GPS displacement, defined as the surface deformation between previously detected slow slip events, into separate regimes of tectonic loading and release. In such a way, previously undetected slow slip events that produce less than a millimeter of surface deformation are extracted from the geodetic noise. These new observations demonstrate that the interaseismic period is not quiescent and that slow slip occurs much more often than previously thought. This suggests that the plate interface where slow slip and tremor occur is in fact strongly coupled and that slow aseismic release occurs over a wide spectrum of time scales."
+featured: false
+publication: "**"
+doi: "10.1002/2016GL069537"
+---
+

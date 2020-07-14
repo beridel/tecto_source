@@ -1,2 +1,2 @@
 # wbfrank
-Research group website
+William Frank's Research Group @ MIT

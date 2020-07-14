@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G Gonzales | William Frank @ MIT</title>
+    <link>/author/g-gonzales/</link>
+      <atom:link href="/author/g-gonzales/index.xml" rel="self" type="application/rss+xml" />
+    <description>G Gonzales</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>G Gonzales</title>
+      <link>/author/g-gonzales/</link>
+    </image>
+    
+    <item>
+      <title>Characteristic tectonic tremor activity observed over multiple slow slip cycles in the Mexican subduction zone</title>
+      <link>/publication/husker-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/husker-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
