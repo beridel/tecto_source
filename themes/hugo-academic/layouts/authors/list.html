@@ -27,7 +27,7 @@
       <ul>
         {{ range $query }}
         <li>
-          <a href="{{ .RelPermalink }}">"{{ .Title }} ({{ .Date.Year }})"</a>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </li>
         {{ end }}
       </ul>
