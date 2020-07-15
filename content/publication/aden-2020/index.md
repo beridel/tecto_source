@@ -1,6 +1,6 @@
 ---
 title: "Statistical evidence of a seismic quiescence before the M$_w$8.1 Iquique earthquake, Chile"
-date: 2020-01-01
+date: 2020-05-01
 publishDate: 2020-07-14T17:59:35.748402Z
 authors: ["faden", "Claudio Satriano", "Pascal Bernard", "Natalia Poiata", "El Madani Aissaoui", "Jean-Pierre Villotte", "wbfrank"]
 publication_types: ["2"]
