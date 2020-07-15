@@ -89,7 +89,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "wfrank@mit.edu"
-phone = "888 888 88 88"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -100,7 +100,7 @@ address = {street = "77 Massachusetts Avenue", city = "Cambridge", region = "MA"
 coordinates = {latitude = "42.360296", longitude = "-71.089319"}
 
 # Directions for visitors to locate you.
-directions = "On the 5th floor of the Green Building (54)"
+directions = "54-514 (Green Building)"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

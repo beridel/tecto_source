@@ -25,10 +25,16 @@ role: Assistant Professor
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:wfrank@mit.edu'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=MK2Cs1UAAAAJ
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-7892-3081
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/William_Frank3
 - icon: github
   icon_pack: fab
   link: https://github.com/beridel
