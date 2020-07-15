@@ -2,7 +2,6 @@
 authors:
 - wbfrank
 bio: My research focuses on how the Earth's crust deforms over a broad range spatiotemporal scales.
-  matter.
 education:
   courses:
   - course: PhD in Geophysics
