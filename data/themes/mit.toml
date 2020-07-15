@@ -1,0 +1,24 @@
+# Theme metadata
+name = "mit"
+
+# RED: #A31F34
+# DARK GREY: #8A8B8C
+# LIGHT GREY: #C2C0BF
+# WHITE: #fff
+
+# Is theme light or dark?
+light = true
+
+# Primary
+# red
+primary = "#A31F34"
+
+# Menu
+menu_primary = "#A31F34"
+menu_text = "#fff"
+menu_text_active = "#A31F34"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "#fff"
+home_section_even = "#f3f3f3"
