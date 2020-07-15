@@ -4,32 +4,38 @@ authors:
 bio: Graduate student
 education:
   courses:
-  - course: BSc in ???
+  - course: BSc in Physics
+    institution: Utah State University
+    year: 2020
+  - course: BSc in Geology
     institution: Utah State University
     year: 2020
 email: "jtbryan@mit.edu"
 interests:
+- Earthquakes
+- Volcanoes
+- Ambient Seismic Noise
 organizations:
 - name: Massachusetts Institute of Technology
-  url: ""
+  url: "https://eapsweb.mit.edu"
 role: Graduate Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+  link: 'mailto:jtbryan@mit.edu'
+- icon: orcid
+  inon_pack: fab
+  link: https://orcid.org/0000-0001-9466-1843
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Jared_Bryan
+- icon: github
+  icon_pack: fab
+  link: https://github.com/jaredbryan1998
 superuser: false
 title: Jared Bryan
 user_groups:
 - Group members
 ---
 
-Jared Bryan is starting at MIT fall 2020.
+Jared Bryan is a first-year graduate student starting at MIT in fall 2020.
