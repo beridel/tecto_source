@@ -31,7 +31,7 @@ social:
   link: https://www.researchgate.net/profile/Jared_Bryan
 - icon: github
   icon_pack: fab
-  link: https://github.com/jaredbryan1998
+  link: https://github.com/jaredbryan881
 superuser: false
 title: Jared Bryan
 user_groups:
