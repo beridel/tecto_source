@@ -24,7 +24,7 @@ social:
   icon_pack: fas
   link: 'mailto:jtbryan@mit.edu'
 - icon: orcid
-  inon_pack: fab
+  icon_pack: fab
   link: https://orcid.org/0000-0001-9466-1843
 - icon: researchgate
   icon_pack: fab
