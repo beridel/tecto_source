@@ -49,4 +49,4 @@ user_groups:
 ---
 
 William Frank is an Assistant Professor in the Department of Earth, Atmospheric and Planetary Sciences at the Massachusetts Institute of Technology.
-His research group focuses on deformation within the solid Earth, whether it's being shaken by earthquakes or slowly sheared by slow slip.
+He leads the Tectonophysics research group that focuses on crustal deformation within the solid Earth, whether it's the result of earthquakes or the slow shear of slow slip.
