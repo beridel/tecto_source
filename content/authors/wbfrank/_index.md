@@ -41,6 +41,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/w_b_frank
+- icon: cv
+  icon_pack: ai
+  link: files/wbfrank_cv.pdf
 
 superuser: true
 title: William B. Frank
