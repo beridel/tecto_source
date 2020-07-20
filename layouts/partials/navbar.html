@@ -15,15 +15,19 @@
 
     {{if $show_logo}}
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="{{ "/" | relLangURL }}">
+      <a class="navbar-brand mr-0-5" href="{{ "/" | relLangURL }}">
         {{- if $has_logo -}}
           <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">
-        {{- else -}}
-          {{- site.Title -}}
         {{- end -}}
       </a>
     </div>
     {{end}}
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="{{ "/" | relLangURL }}">
+        {{- site.Title -}}
+      </a>
+    </div>
 
     {{ if site.Menus.main }}
     <button type="button" class="navbar-toggler" data-toggle="collapse"
@@ -32,17 +36,22 @@
     </button>
     {{ end }}
 
-    {{if $show_logo}}
+<!--    {{if $show_logo}}
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
       <a class="navbar-brand" href="{{ "/" | relLangURL }}">
       {{- if $has_logo -}}
         <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">
-      {{- else -}}
-        {{- site.Title -}}
       {{- end -}}
       </a>
     </div>
     {{end}}
+-->
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="{{ "/" | relLangURL }}">
+        {{- site.Title -}}
+      </a>
+    </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     {{ $align_menu := site.Params.main_menu.align | default "l" }}
