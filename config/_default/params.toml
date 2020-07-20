@@ -45,7 +45,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Earthquake Science @ MIT"
+org_name = "EQSci"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -164,7 +164,7 @@ sharing = false
 copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
 
 # Highlight the site author (superuser) in author lists? (true/false)
-highlight_superuser = true
+highlight_superuser = false
 
 # Link authors to their profile page? (true/false)
 link_authors = true
