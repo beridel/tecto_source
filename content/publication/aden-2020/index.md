@@ -8,5 +8,10 @@ abstract: "The 2014 Iquique seismic crisis in Chile, culminating with a $M_w$ 8.
 featured: false
 publication: "*Journal of Geophysical Research: Solid Earth*"
 doi: "10.1029/2019JB019337"
+#links:
+#- icon: newspaper
+#  icon_pack: far
+#  name: Article
+#  url: https://doi.org/10.1029/2019JB019337
 ---
 
