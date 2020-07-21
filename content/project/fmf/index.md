@@ -4,14 +4,15 @@ external_link: ""
 image:
   caption: Workflow of the graphics processing unit (GPU) implementation of FMF.
 links:
-- icon: newspaper
-  icon_pack: far
-  name: Article
-  url: https://doi.org/10.1785/0220170181
 - icon: github
   icon_pack: fab
   name: Code
   url: https://github.com/beridel/fast_matched_filter
+- icon: newspaper
+  icon_pack: far
+  name: Article
+  url: https://doi.org/10.1785/0220170181
+
 #slides: example
 summary: FastMatchedFilter (FMF) - An efficient seismic matched-filter search for both CPU and GPU architectures.
 #tags:
