@@ -3,6 +3,6 @@
 .RData
 .Ruserdata
 public/
-resources/_gen
+resources/
 .DS_Store
 .content
