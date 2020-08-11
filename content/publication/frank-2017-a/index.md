@@ -8,5 +8,6 @@ abstract: "The postseismic deformation following a large ($M_w  >$ 7) earthquake
 featured: false
 publication: "*Geophysical Research Letters*"
 doi: "10.1002/2016GL072288"
+group: tecto
 ---
 

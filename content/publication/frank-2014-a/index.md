@@ -8,5 +8,6 @@ abstract: "Low-frequency earthquakes (LFEs), which frequently originate from mul
 featured: false
 publication: "*Geophysical Journal International*"
 doi: "10.1093/gji/ggu058"
+group: tecto
 ---
 

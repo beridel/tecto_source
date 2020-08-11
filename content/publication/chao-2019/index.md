@@ -8,5 +8,6 @@ abstract: "We report new observations of triggered tectonic tremor in three regi
 featured: false
 publication: "*Seismological Research Letters*"
 doi: "10.1785/0220190009"
+group: tecto
 ---
 

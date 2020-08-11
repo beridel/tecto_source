@@ -8,5 +8,6 @@ abstract: "We adapt matched-filter searching to a region of sparse stations and 
 featured: false
 publication: "*Bulletin of the Seismological Society of America*"
 doi: "10.1785/0120170190"
+group: tecto
 ---
 

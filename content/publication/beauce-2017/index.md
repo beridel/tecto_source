@@ -9,5 +9,6 @@ featured: false
 publication: "*Seismological Research Letters*"
 doi: "10.1785/0220170181"
 url_code: 'https://github.com/beridel/fast_matched_filter'
+group: tecto
 ---
 

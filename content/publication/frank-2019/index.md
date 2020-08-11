@@ -8,5 +8,6 @@ abstract: "Slow slip transients on faults can last from seconds to months and st
 featured: false
 publication: "*Science Advances*"
 doi: "10.1126/sciadv.aaw9386"
+group: tecto
 ---
 

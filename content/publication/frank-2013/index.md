@@ -8,5 +8,6 @@ abstract: "We use data from the Meso-America Subduction Experiment to detect and
 featured: false
 publication: "*Geophysical Research Letters*"
 doi: "10.1002/grl.50561"
+group: tecto
 ---
 

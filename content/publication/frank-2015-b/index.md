@@ -8,5 +8,6 @@ abstract: "Slow transient slip that releases stress along the deep roots of plat
 featured: false
 publication: "*Geophysical Research Letters*"
 doi: "10.1002/2015GL063685"
+group: tecto
 ---
 

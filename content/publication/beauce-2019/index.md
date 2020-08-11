@@ -8,5 +8,6 @@ abstract: "We present a new automated earthquake detection and location method b
 featured: false
 publication: "*Journal of Geophysical Research*"
 doi: "10.1029/2019JB018110"
+group: tecto
 ---
 

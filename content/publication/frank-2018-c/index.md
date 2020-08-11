@@ -8,5 +8,6 @@ abstract: "Capable of reaching similar magnitudes to large megathrust earthquake
 featured: false
 publication: "*Science Advances*"
 doi: "10.1126/sciadv.aat0661"
+group: tecto
 ---
 

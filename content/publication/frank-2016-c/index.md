@@ -8,5 +8,6 @@ abstract: "Referred to as slow slip events, the transient aseismic slip that occ
 featured: false
 publication: "**"
 doi: "10.1002/2016GL069537"
+group: tecto
 ---
 

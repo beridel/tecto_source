@@ -8,5 +8,6 @@ abstract: "Low Frequency Earthquakes (LFEs) often occur in conjunction with tran
 featured: false
 publication: "*Earth and Planetary Science Letters*"
 doi: "10.1016/j.epsl.2017.07.032"
+group: tecto
 ---
 

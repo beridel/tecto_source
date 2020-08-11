@@ -8,5 +8,6 @@ abstract: "Slow earthquakes are important constituents of the seismic cycle and 
 featured: false
 publication: "*Earth and Planetary Science Letters*"
 doi: "10.1016/j.epsl.2014.12.051"
+group: tecto
 ---
 

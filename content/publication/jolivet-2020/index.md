@@ -8,5 +8,6 @@ abstract: "To first order, faults are locked while stress builds up to a devasta
 featured: false
 publication: "*AGU Advances*"
 doi: "https://doi.org/10.1029/2019AV000126"
+group: tecto
 ---
 

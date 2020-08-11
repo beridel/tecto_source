@@ -8,5 +8,6 @@ abstract: "Studies of low-frequency earthquakes (LFEs) have focused on detecting
 featured: false
 publication: "*Journal of Geophysical Research*"
 doi: "10.1002/2014JB011457"
+group: tecto
 ---
 

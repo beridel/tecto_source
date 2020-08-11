@@ -8,5 +8,6 @@ abstract: "Tectonic tremor (TT) and low-frequency earthquakes (LFEs) have been f
 featured: false
 publication: "*Geophysical Journal International*"
 doi: "10.1093/gji/ggv194"
+group: tecto
 ---
 

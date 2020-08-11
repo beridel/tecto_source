@@ -8,5 +8,6 @@ abstract: "Aftershocks region have been extensively reported to expand logarithm
 featured: false
 publication: "*Geophysical Research Letters*"
 doi: "10.1002/2017GL076287"
+group: tecto
 ---
 

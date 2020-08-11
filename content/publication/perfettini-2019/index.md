@@ -8,5 +8,6 @@ abstract: "We present an analytical model based on the idea that afterslip drive
 featured: false
 publication: "*Journal of Geophysical Research: Solid Earth*"
 doi: "10.1029/2018JB016490"
+group: tecto
 ---
 

@@ -8,5 +8,6 @@ abstract: "Since the discovery of slow slip events, many methods have been succe
 featured: false
 publication: "*Journal of Geophysical Research*"
 doi: "10.1002/2017JB014448"
+group: tecto
 ---
 
