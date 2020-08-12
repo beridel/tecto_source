@@ -9,5 +9,9 @@ featured: false
 publication: "*Journal of Geophysical Research*"
 doi: "10.1029/2019JB018110"
 group: tecto
+- detection
+- matched-filter
+- clustering
+- Alps
 ---
 

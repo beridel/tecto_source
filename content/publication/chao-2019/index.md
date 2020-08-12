@@ -9,5 +9,10 @@ featured: false
 publication: "*Seismological Research Letters*"
 doi: "10.1785/0220190009"
 group: tecto
+tags:
+- tectonic tremor
+- subduction
+- Chile
+- triggering
 ---
 

@@ -9,5 +9,13 @@ featured: false
 publication: "*Earth and Planetary Science Letters*"
 doi: "10.1016/j.epsl.2017.07.032"
 group: tecto
+tags:
+- subduction
+- transform
+- low-frequency earthquakes
+- statistics
+- Mexico
+- Parkfield
+- Cascadia
 ---
 

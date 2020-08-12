@@ -9,5 +9,10 @@ featured: false
 publication: "*Earth and Planetary Science Letters*"
 doi: "10.1016/j.epsl.2018.04.018"
 group: tecto
+tags:
+- volcano
+- Kamchatka
+- statistics
+- clustering
 ---
 

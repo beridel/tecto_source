@@ -9,5 +9,9 @@ featured: false
 publication: "*Tectonophysics*"
 doi: "10.1016/j.tecto.2016.09.003"
 group: tecto
+tags:
+- Mexico
+- detection
+- anthropogenic
 ---
 

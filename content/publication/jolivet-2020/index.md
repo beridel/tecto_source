@@ -9,5 +9,11 @@ featured: false
 publication: "*AGU Advances*"
 doi: "https://doi.org/10.1029/2019AV000126"
 group: tecto
+tags:
+- slow slip
+- subduction
+- transform
+- review
+- seismo-geodesy
 ---
 

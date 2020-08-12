@@ -9,5 +9,12 @@ featured: false
 publication: "*Geophysical Research Letters*"
 doi: "10.1002/2016GL072288"
 group: tecto
+tags:
+- Chile
+- subduction
+- megathrust
+- postseismic
+- rate-and-state
+- seismo-geodesy
 ---
 

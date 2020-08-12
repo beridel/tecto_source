@@ -9,5 +9,10 @@ featured: false
 publication: "*Geophysical Journal International*"
 doi: "10.1093/gji/ggv194"
 group: tecto
+tags:
+- transform
+- Parkfield
+- low-frequency earthquakes
+- statistics
 ---
 

@@ -9,5 +9,10 @@ featured: false
 publication: "*Journal of Geophysical Research: Solid Earth*"
 doi: "10.1029/2018JB016517"
 group: tecto
+tags:
+- tectonic tremor
+- subduction
+- Mexico
+- detection
 ---
 

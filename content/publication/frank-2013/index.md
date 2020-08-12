@@ -9,5 +9,11 @@ featured: false
 publication: "*Geophysical Research Letters*"
 doi: "10.1002/grl.50561"
 group: tecto
+tags:
+- low-frequency earthquakes
+- subduction
+- Mexico
+- detection
+- matched-filter
 ---
 

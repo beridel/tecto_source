@@ -9,5 +9,13 @@ featured: false
 publication: "**"
 doi: "10.1002/2016GL069537"
 group: tecto
+tags:
+- seismo-geodesy
+- Mexico
+- Cascadia
+- low-frequency earthquakes
+- tectonic tremor
+- slow slip
+- subduction
 ---
 

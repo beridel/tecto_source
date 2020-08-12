@@ -9,5 +9,11 @@ featured: false
 publication: "*Earth and Planetary Science Letters*"
 doi: "10.1016/j.epsl.2014.12.051"
 group: tecto
+tags:
+- subduction
+- low-frequency earthquakes
+- slow slip
+- fluids
+- Mexico
 ---
 

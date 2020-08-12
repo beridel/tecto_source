@@ -9,5 +9,11 @@ featured: false
 publication: "*Geophysical Research Letters*"
 doi: "10.1002/2015GL063685"
 group: tecto
+tags:
+- slow slip
+- subduction
+- Mexico
+- seismo-geodesy
+- low-frequency earthquakes
 ---
 

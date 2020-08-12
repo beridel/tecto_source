@@ -9,5 +9,12 @@ featured: false
 publication: "*Journal of Geophysical Research*"
 doi: "10.1002/2014JB011457"
 group: tecto
+tags:
+- subduction
+- low-frequency earthquakes
+- Mexico
+- detection
+- matched-filter
+- HPC
 ---
 

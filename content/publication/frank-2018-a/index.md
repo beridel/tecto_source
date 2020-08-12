@@ -9,5 +9,10 @@ featured: false
 publication: "*Bulletin of the Seismological Society of America*"
 doi: "10.1785/0120170190"
 group: tecto
+tags:
+- intraplate
+- detection
+- matched-filter
+- East Coast
 ---
 

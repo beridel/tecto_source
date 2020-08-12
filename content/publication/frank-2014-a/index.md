@@ -9,5 +9,9 @@ featured: false
 publication: "*Geophysical Journal International*"
 doi: "10.1093/gji/ggu058"
 group: tecto
+tags:
+- detection
+- low-frequency earthquakes
+- subduction
 ---
 
