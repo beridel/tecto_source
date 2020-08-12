@@ -49,7 +49,7 @@ superuser: true
 title: William B. Frank
 user_groups:
 - Faculty
-site_url: "/camcat/"
+site_url: "/tecto/"
 ---
 
 William Frank is an Assistant Professor in the [Department of Earth, Atmospheric and Planetary Sciences](https://eapsweb.mit.edu) at the [Massachusetts Institute of Technology](https://www.mit.edu).
