@@ -9,6 +9,7 @@ featured: false
 publication: "*Journal of Geophysical Research: Solid Earth*"
 doi: "10.1029/2019JB019099"
 group: tecto
+tags:
 - subduction
 - low-frequency earthquakes
 - source physics
