@@ -15,7 +15,7 @@ tags:
 - low-frequency earthquakes
 - statistics
 - Mexico
-- Parkfield
+- San Andreas
 - Cascadia
 ---
 

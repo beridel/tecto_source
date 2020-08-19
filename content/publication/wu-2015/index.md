@@ -11,7 +11,7 @@ doi: "10.1093/gji/ggv194"
 group: tecto
 tags:
 - transform
-- Parkfield
+- San Andreas
 - low-frequency earthquakes
 - statistics
 ---

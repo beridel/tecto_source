@@ -12,7 +12,6 @@ url_code: 'https://github.com/beridel/fast_matched_filter'
 group: tecto
 tags:
 - detection
-- matched-filter
-- HPC
+- high-performance computing
 ---
 

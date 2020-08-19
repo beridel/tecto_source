@@ -14,6 +14,5 @@ tags:
 - subduction
 - Mexico
 - detection
-- matched-filter
 ---
 

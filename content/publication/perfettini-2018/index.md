@@ -12,6 +12,8 @@ group: tecto
 tags:
 - subduction
 - postseismic
-- rate-and-state
+- aftershocks
+- afterslip
+- rate-state friction
 ---
 

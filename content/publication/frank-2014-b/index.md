@@ -14,7 +14,6 @@ tags:
 - low-frequency earthquakes
 - Mexico
 - detection
-- matched-filter
-- HPC
+- high-performance computing
 ---
 

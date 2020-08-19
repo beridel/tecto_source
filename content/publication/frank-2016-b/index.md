@@ -12,6 +12,7 @@ group: tecto
 tags:
 - Mexico
 - detection
+- triggering
 - anthropogenic
 ---
 

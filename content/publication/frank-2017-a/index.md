@@ -12,9 +12,10 @@ group: tecto
 tags:
 - Chile
 - subduction
-- megathrust
 - postseismic
-- rate-and-state
+- afterslip
+- aftershocks
+- rate-state friction
 - seismo-geodesy
 ---
 

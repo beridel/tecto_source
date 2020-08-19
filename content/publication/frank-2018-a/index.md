@@ -12,7 +12,6 @@ group: tecto
 tags:
 - intraplate
 - detection
-- matched-filter
 - East Coast
 ---
 

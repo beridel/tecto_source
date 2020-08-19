@@ -16,7 +16,6 @@ doi: "10.1029/2019JB019337"
 group: tecto
 tags:
 - subduction
-- megathrust
 - statistics
 - precursors
 - Chile

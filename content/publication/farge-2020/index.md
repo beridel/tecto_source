@@ -12,7 +12,7 @@ group: tecto
 tags:
 - subduction
 - low-frequency earthquakes
-- source physics
+- earthquake source
 - Mexico
 ---
 

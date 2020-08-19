@@ -15,5 +15,6 @@ tags:
 - seismo-geodesy
 - slow slip
 - low-frequency earthquakes
+- detection
 ---
 

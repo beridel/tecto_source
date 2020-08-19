@@ -15,6 +15,6 @@ tags:
 - low-frequency earthquakes
 - seismo-geodesy
 - Mexico
-- source physics
+- earthquake source
 ---
 

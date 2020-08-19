@@ -11,7 +11,9 @@ doi: "10.1029/2018JB016490"
 group: tecto
 tags:
 - subduction
-- rate-and-state
+- rate-state friction
 - postseismic
+- aftershocks
+- afterslip
 ---
 

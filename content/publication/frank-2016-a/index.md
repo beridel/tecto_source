@@ -16,6 +16,5 @@ tags:
 - clustering
 - statistics
 - slow slip
-- subduction
 ---
 
