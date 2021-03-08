@@ -1,13 +1,13 @@
 ---
 authors:
-- mouchon
+- mouchonc
 bio: Graduate student
 education:
   courses:
   - course: MSc in Geophysics
     institution: Institut des Sciences de la Terre
     year: 2020
-email: "caroline.mouchon@etu.univ-grenoble-alpes.fr"
+email: "mouchonc@mit.edu"
 #interests:
 # - Earthquakes
 # - Long Period Earthquakes
@@ -20,7 +20,7 @@ role: Graduate Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:caroline.mouchon@etu.univ-grenoble-alpes.fr'
+  link: 'mailto:mouchonc@mit.edu'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/MathildeWimez
