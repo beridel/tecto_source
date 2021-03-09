@@ -24,22 +24,16 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:mouchonc@mit.edu'
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:mouchonc@mit.edu'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.fr/citations?user=U7DcFikAAAAJ&hl=fr&oi=ao
-#- icon: researchgate
-#  icon_pack: fab
-#  link: https://www.researchgate.net/profile/
 - icon: github
   icon_pack: fab
   link: https://github.com/mouchonc
 superuser: false
 title: Caroline Mouchon
 user_groups:
-- Visitors
+- Group members
 ---
 
 Caroline visited during spring 2020 to work on the subdaily dynamics of slow slip in Mexico.
