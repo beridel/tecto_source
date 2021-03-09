@@ -4,18 +4,24 @@ authors:
 bio: Graduate student
 education:
   courses:
-  - course: MSc in Geophysics
+  - course: MSc in Earth and Planetary Sciences
     institution: Tokyo Institute of Technology
     year: 2021
+  - course: BSc in Earth and Planetary Sciences
+    institution: Tokyo Institute of Technology
+    year: 2019
 email: "ayat@mit.edu"
-#interests:
-# - Earthquakes
+interests:
+ - Earthquakes
+ - Rupture Model
+ - Slow Earthquakes
+ - Subduction Dynamics
 # - Long Period Earthquakes
 # - Volcanoes
 # - Glaciology
 organizations:
-#- name: Institut des Sciences de la Terre
-#  url: "https://www.isterre.fr"
+- name: Tokyo Institute of Technology
+  url: "https://educ.titech.ac.jp/eps/eng/"
 role: Graduate Student
 social:
 - icon: envelope
@@ -36,8 +42,8 @@ social:
 superuser: false
 title: Ayako Tsuchiyama
 user_groups:
-- Visitors
+- Group members
 ---
 
-#Caroline visited during spring 2020 to work on the subdaily dynamics of slow slip in Mexico.
-#After obtaining her Master's degree from the ISTerre, she will continue to work there until the end of 2020 before starting a PhD program at MIT in the Tectonophysics group in 2021.
+Ayako is an incoming PhD student starting at MIT in fall 2021. She is currently working on regional seismic activities of deep-focus earthquakes in Japan and low-frequency earthquakes in the 2019 Ridgecrest sequence.
+
