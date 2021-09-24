@@ -1,8 +1,7 @@
 ---
 authors:
 - gfarge
-bio: Visiting student, studying how fluid flow shapes seismicity in geological
-plumbing systems.
+bio: Visiting student, studying how fluid flow shapes seismicity in geological plumbing systems.
 education:
   courses:
   - course: PhD in Geological Fluid Dynamics
