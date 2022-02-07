@@ -16,9 +16,6 @@ interests:
  - Rupture Model
  - Slow Earthquakes
  - Subduction Dynamics
-# - Long Period Earthquakes
-# - Volcanoes
-# - Glaciology
 organizations:
 - name: Massachusetts Institute of Technology
   url: "https://eapsweb.mit.edu"
@@ -33,12 +30,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=aBqxiUsAAAAJ&hl=en&oi=ao
-#- icon: researchgate
-#  icon_pack: fab
-#  link: https://www.researchgate.net/profile/Mathilde_Wimez
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/MWimez
 superuser: false
 title: Ayako Tsuchiyama
 user_groups:
