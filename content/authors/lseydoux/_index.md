@@ -19,6 +19,7 @@ interests:
  - Slow Earthquakes
  - Artificial Intelligence
  - Ambient Noise Seismology
+organizations:
 - name: Massachusetts Institute of Technology
   url: "https://eapsweb.mit.edu"
 role: Postdoctoral Associate
