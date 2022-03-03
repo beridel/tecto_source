@@ -6,7 +6,7 @@ education:
   courses:
   - course: SM in Data Science
     institution: Harvard University
-    year: Expected 2021
+    year: 2021
   - course: AB in Geology - Physics/Mathematics and Applied Mathematics
     institution: Brown University
     year: 2019
@@ -16,7 +16,7 @@ interests:
 organizations:
 - name: Harvard University School of Engineering and Applied Sciences
   url: "https://www.seas.harvard.edu/"
-role: Visitor
+role: Graduate student
 social:
 - icon: envelope
   icon_pack: fas
