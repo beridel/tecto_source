@@ -22,7 +22,7 @@ interests:
  - Statistics
 organizations:
 - name: Institut de Physique du Globe de Paris
-  url: "www.ipgp.fr"
+  url: "https://www.ipgp.fr"
 role: Graduate student
 social:
 - icon: envelope

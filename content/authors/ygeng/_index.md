@@ -15,7 +15,7 @@ interests:
  - Aftershocks
 organizations:
 - name: Harvard University
-  url: "https://www..harvard.edu/"
+  url: "https://www.harvard.edu/"
 role: Graduate student
 social:
 - icon: envelope
