@@ -14,8 +14,8 @@ email: "yichen_geng@g.harvard.edu"
 interests:
  - Aftershocks
 organizations:
-- name: Harvard University School of Engineering and Applied Sciences
-  url: "https://www.seas.harvard.edu/"
+- name: Harvard University
+  url: "https://www..harvard.edu/"
 role: Graduate student
 social:
 - icon: envelope

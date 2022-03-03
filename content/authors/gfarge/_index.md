@@ -21,11 +21,9 @@ interests:
  - Numerical modeling
  - Statistics
 organizations:
-- name: Massachusetts Institute of Technology
-  url: "https://eapsweb.mit.edu"
-- name: Institut de physique du globe de Paris
-  url: "https://eapsweb.mit.edu"
-role: Visiting Student (2021-22), Fulbright Fellow
+- name: Institut de Physique du Globe de Paris
+  url: "www.ipgp.fr"
+role: Graduate student
 social:
 - icon: envelope
   icon_pack: fas
@@ -52,7 +50,7 @@ user_groups:
 - Alumni
 ---
 
-Gaspard is a PhD student from the [Institut de Physique du Globe de Paris](http://www.ipgp.fr/en/farge-gaspard), supervised Claude Jaupart and Nikolai Shapiro. From Sept. 21 to Mar. 22, he is visiting William Frank's group at MIT as a Fulbright fellow. 
+Gaspard is a PhD student from the [Institut de Physique du Globe de Paris](http://www.ipgp.fr/en/farge-gaspard), supervised Claude Jaupart and Nikolai Shapiro. From Sept. 21 to Mar. 22, he visited William Frank's group at MIT as a Fulbright fellow. 
 
 As a seismologist, Gaspard uses spatio-temporal patterns and source properties of microseismicity to investigate physical conditions in faults. His PhD research focuses on modeling how the dynamics of the fluid transport system of large faults and volcanoes shapes the seismic activity they emit. In particular, he studies how patterns of clustering and migrations of seimicity can emerge from the activity of elementary permeability valves in the fault zone. During his stay at MIT, he will investigate the seismic source properties of rapid pressure transients in the dynamical fluid transport system he models. In his previous projects, Gaspard worked on characterizing source properties of low-frequency earthquakes in Guerrero, Mexico, in order to infer physical conditions on the fault.
 
