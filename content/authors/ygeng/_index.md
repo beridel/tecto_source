@@ -24,8 +24,8 @@ social:
 superuser: false
 title: Yichen Geng
 user_groups:
-- Group members
+- Alumni
 ---
 
-Yichen is a visitor at MIT from 2020 to 2021. She is currently working on characterizing aftershock sequences of the 2014 Mw 8.1 Iquique earthquake.
+Yichen is a graduate student at Harvard University. She worked on characterizing aftershock sequences of the 2014 Mw 8.1 Iquique earthquake.
 

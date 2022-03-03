@@ -49,7 +49,7 @@ social:
 superuser: false
 title: Gaspard Farge
 user_groups:
-- Group members
+- Alumni
 ---
 
 Gaspard is a PhD student from the [Institut de Physique du Globe de Paris](http://www.ipgp.fr/en/farge-gaspard), supervised Claude Jaupart and Nikolai Shapiro. From Sept. 21 to Mar. 22, he is visiting William Frank's group at MIT as a Fulbright fellow. 
