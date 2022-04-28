@@ -1,6 +1,6 @@
 ---
-title: "An Adaptable Random Forest Model for the Declustering of Earthquake Catalogs"
-date: 2022-03-01
+title: "An adaptable random forest model for the declustering of earthquake catalogs"
+date: 2022-02-01
 publishDate: 2022-02-10T17:59:35.748402Z
 authors: ["faden", "wbfrank", "lseydoux"]
 publication_types: ["2"]
