@@ -19,5 +19,6 @@ tags:
 - earthquake triggering
 - clustering
 - volcano
+- detection
 ---
 
