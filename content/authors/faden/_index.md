@@ -13,16 +13,16 @@ education:
   - course: BSc in Physics
     institution: Université de Nice - Sophia Antipolis
     year: 2012
-email: "faden@mit.edu"
+email: "f.aden@gns.cri.nz"
 interests:
  - Earthquakes
  - Slow Earthquakes
  - Statistics
  - Machine Learning
 organizations:
-- name: Massachusetts Institute of Technology
-  url: "https://eapsweb.mit.edu"
-role: Postdoctoral Associate
+- name: GNS Science
+  url: "https://www.gns.cri.nz"
+role: R&D Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,10 +42,11 @@ social:
 superuser: false
 title: Florent Aden-Antoniow
 user_groups:
-- Group members
+- Alumni
 ---
 
-Florent started in February 2019 at USC before moving to MIT in July 2020.
+Florent was with our group from February 2019 until November 2021.
+He is now an R&D Data Scientist at GNS Science in Lower Hutt, New Zealand.
 He is particularly interested in the detection and location of Earthquakes and
 their interaction with what we call Slow-Earthquakes. He writes and maintains his own
 codes to explore and analyze the extensive amount of seismic data that needs to be
