@@ -30,6 +30,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/mouchonc
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/my-orcid?orcid=0000-0001-7645-8155
 superuser: false
 title: Caroline Mouchon
 user_groups:
