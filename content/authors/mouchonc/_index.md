@@ -17,8 +17,8 @@ interests:
  - Low Frequency Earthquakes
  - Subduction Dynamics
 organizations:
-- name: Institut des Sciences de la Terre
-  url: "https://www.isterre.fr"
+- name: Massachusetts Institute of Technology
+  url: "https://eapsweb.mit.edu"
 role: Graduate Student
 social:
 - icon: envelope
