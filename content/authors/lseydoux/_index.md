@@ -20,9 +20,9 @@ interests:
  - Artificial Intelligence
  - Ambient Noise Seismology
 organizations:
-- name: Massachusetts Institute of Technology
-  url: "https://eapsweb.mit.edu"
-role: Postdoctoral Associate
+- name: Institut de Physique du Globe de Paris
+  url: "https://www.ipgp.fr"
+role: Maître de Conférences
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,11 +40,11 @@ social:
   icon_pack: fab
   link: https://github.com/leonard-seydoux
 superuser: false
-title: Leonard Simon Seydoux
+title: Leonard S. Seydoux
 user_groups:
-- Group members
+- Alumni
 ---
 
-Leonard started in January 2022 at the MIT Department of Earth, Atmospheric, and Planetary Sciences. His research focuses on understanding physical processes within fault and volcanic systems. 
+Leonard was a postdoc at the MIT Department of Earth, Atmospheric, and Planetary Sciences in 2022. Since late 2022, he has been junior faculty at the Institut de Physique du Globe de Paris. His research focuses on understanding physical processes within fault and volcanic systems. 
 With tools taken from artificial intelligence, Leonard's investigate continuous geophysical time series to reveal and inventorize the signature of physical processes. 
 With such approaches, he aims to better constrain our physical understanding of the signatures observed within these systems (such as tremors or slow-slip events) or to discover new signatures that could open up new avenues in modeling the seismic or volcanic cycle.

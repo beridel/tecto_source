@@ -8,25 +8,30 @@
 #  url = "#hero"
 #  weight = 10
 
-#[[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
+[[main]]
+  name = "News"
+  url = "news/"
+  weight = 1
 
-#[[main]]
-#  name = "Research"
-#  url = "research/"
-#  weight = 1
+[[main]]
+  name = "Research"
+  url = "research/"
+  weight = 2
+
+[[main]]
+  name = "People"
+  url = "people/"
+  weight = 3
 
 [[main]]
   name = "Publications"
   url = "publication/"
-  weight = 2
+  weight = 4
 
 [[main]]
   name = "Software"
   url = "software/"
-  weight = 3
+  weight = 5
 
 #[[main]]
 #  name = "Courses"
@@ -34,15 +39,14 @@
 #  weight = 50
 
 [[main]]
-  name = "Contact"
-  url = "contact/"
-  weight = 3
-
-[[main]]
   name = "EQSci@MIT"
   url = "../"
-  weight = 4
+  weight = 6
 
+[[main]]
+  name = "Contact"
+  url = "contact/"
+  weight = 7
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
