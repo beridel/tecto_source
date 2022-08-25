@@ -11,7 +11,7 @@ title = "Recent News"
 subtitle = ""
 
 [content]
-  page_type = news
+  page_type = post
   count = 5
   offset = 0
   order = desc
