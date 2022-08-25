@@ -11,10 +11,16 @@ title = "Recent News"
 subtitle = ""
 
 [content]
-  page_type = post
+  page_type = "post"
   count = 5
   offset = 0
-  order = desc
+  order = "desc"
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
+    exclude_featured = false
 
 [design]
   # Show user's social networking links? (true/false)
