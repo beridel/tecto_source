@@ -32,7 +32,7 @@ authors:
 ## Subdaily dynamics of slow slip
 **_Reproducing geodetic aseismic fault slip from low-frequency earthquake time history at high sampling rates_**
 
-Blabla subdaily slow slip
+Blabla Caro
 
 
 ## Interaction with earthquakes
