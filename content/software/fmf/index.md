@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2017-12-20T00:00:00Z"
 external_link: ""
 image:
   caption: Workflow of the graphics processing unit (GPU) implementation of FMF.
