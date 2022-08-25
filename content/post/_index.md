@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Research
+title: News
 view: 2
 ---
