@@ -38,5 +38,4 @@ title: Eric Beaucé
 #- Faculty
 ---
 
-William Frank is an Assistant Professor in the [Department of Earth, Atmospheric and Planetary Sciences](https://eapsweb.mit.edu) at the [Massachusetts Institute of Technology](https://www.mit.edu).
-He leads the Tectonophysics research group that focuses on crustal deformation within the solid Earth, whether it's the result of earthquakes or the slow shear of slow slip.
+Postdoctoral researcher at Lamont-Doherty Earth Observatory, and developer of Fast Matched-Filter.
