@@ -52,7 +52,7 @@
     <div class="portrait-title">
       <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
       {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
-        {{ if in .Params.user_groups "Alumni" }}
+        {{ if or (in .Params.user_groups "Alumni") (in .Params.user_groups "Collaborators") }}
         {{ range .Params.organizations }}
         <h3>
           {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
