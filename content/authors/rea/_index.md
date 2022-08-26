@@ -14,7 +14,7 @@ organizations:
 - name: Boston University
   url: "https://www.bu.edu/earth/"
 role: Research Professor
-#social:
+social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:rea@bu.edu'
