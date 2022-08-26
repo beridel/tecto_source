@@ -7,7 +7,7 @@ education:
   - course: PhD in Geophysics
     institution: Massachusetts Institute of Technology
     year: 2021
-  email: "ebeauce@ldeo.columbia.edu"
+email: "ebeauce@ldeo.columbia.edu"
 interests:
 - Earthquakes
 - Tectonics
