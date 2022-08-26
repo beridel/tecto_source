@@ -5,15 +5,9 @@ bio: Postdoctoral researcher at Lamont-Doherty Earth Observatory, and developer 
 education:
   courses:
   - course: PhD in Geophysics
-    institution: Institut de Physique du Globe de Paris
-    year: 2014
-  - course: MSc in Geophysics
-    institution: Institut de Physique du Globe de Paris
-    year: 2011
-  - course: BSc in Earth Systems Science
-    institution: University of Michigan (Ann Arbor)
-    year: 2009
-email: "ebeauce@ldeo.columbia.edu"
+    institution: Massachusetts Institute of Technology
+    year: 2021
+  email: "ebeauce@ldeo.columbia.edu"
 interests:
 - Earthquakes
 - Tectonics
