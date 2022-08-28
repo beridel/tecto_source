@@ -27,7 +27,13 @@
       <ul>
         {{ range $query }}
         <li>
-            <a href="{{ .RelPermalink }}">"{{ .Type }}: {{ .Title }} ({{ .Date.Year }})"</a>
+            <a href="{{ .RelPermalink }}">
+                {{ if eq .Type "publication" }}
+                "{{ .Title }} ({{ .Date.Year }})"
+                {{ else }}
+                "{{ humanize .Type }}: {{ .Title}} ({{ .Date.Year }})"
+                {{ end }}
+            </a>
         </li>
         {{ end }}
       </ul>
