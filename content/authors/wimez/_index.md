@@ -42,4 +42,4 @@ user_groups:
 - Alumni
 ---
 
-Mathilde finished her Master's in May 2022 after working with William on the detection and characterization of Long Period Earthquakes in volcanic swarms.
+Mathilde finished her Master's in May 2022 after working with William on the detection and characterization of long-period earthquakes in volcanic swarms.
