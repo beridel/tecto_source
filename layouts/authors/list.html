@@ -29,7 +29,7 @@
         <li>
             <a href="{{ .RelPermalink }}">
                 {{ if eq .Type "publication" }}
-                "{{ .Title }} (<em>{{ .Params.Publication }}</em>, {{ .Date.Year }})"
+                "{{ .Title }} (<em>{{ markdownify .Params.Publication }}</em>, {{ .Date.Year }})"
                 {{ else }}
                   {{ if eq .Type "post" }}
                     "News: {{ .Title}} ({{ .Date.Year }})"
