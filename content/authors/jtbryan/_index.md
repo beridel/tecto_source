@@ -38,4 +38,5 @@ user_groups:
 - Group members
 ---
 
-Jared Bryan is a first-year graduate student starting at MIT in fall 2020.
+Jared Bryan started in 2020 as a PhD student in the Tectonophysics group at MIT. His research is focused on understanding magma storage and transport at volcanoes through time-lapse seismic monitoring. 
+He has worked on developing a monitoring technique based on receiver functions, which are uniformly sensitive to velocity changes throughout the transcrustal plumbing system. He applied this method to a quiescent period at Mount St. Helens, where he measured seismic velocity changes in response to deformation from slow slip events in Cascadia. Next, he plans to study active magma transport at Kilauea volcano in Hawai'i. He carried out his second project with Dr. Julien de Wit on the topic of tidal migration of exoplanets.
