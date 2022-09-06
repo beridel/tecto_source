@@ -25,7 +25,7 @@
     <div class="article-widget content-widget-hr">
       <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
       <ul>
-        {{ range $query }}
+        {{ range first 10 $query }}
         <li>
             <a href="{{ .RelPermalink }}">
                 {{ if eq .Type "publication" }}
