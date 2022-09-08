@@ -25,9 +25,19 @@
     <div class="article-widget content-widget-hr">
       <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
       <ul>
-        {{ range $query }}
+        {{ range first 10 $query }}
         <li>
-          <a href="{{ .RelPermalink }}">"{{ .Title }} ({{ .Date.Year }})"</a>
+            <a href="{{ .RelPermalink }}">
+                {{ if eq .Type "publication" }}
+                "{{ .Title }} (<em>{{ markdownify .Params.Publication }}</em>, {{ .Date.Year }})"
+                {{ else }}
+                  {{ if eq .Type "post" }}
+                    "News: {{ .Title}} ({{ .Date.Year }})"
+                  {{ else }}
+                    "{{ humanize .Type }}: {{ .Title}} ({{ .Date.Year }})"
+                  {{ end }}
+                {{ end }}
+            </a>
         </li>
         {{ end }}
       </ul>

@@ -17,6 +17,7 @@ subtitle = ""
                  "Group members",
                  "Administration",
                  "Visitors",
+                 "Collaborators",
                  "Alumni"]
 
 [design]
