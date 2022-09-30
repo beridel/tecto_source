@@ -1,7 +1,7 @@
 ---
 authors:
 - jtbryan
-bio: Graduate student
+bio: I study magma transport and storage.
 education:
   courses:
   - course: BSc in Physics
@@ -24,6 +24,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jtbryan@mit.edu'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=w-QWLhoAAAAJ&hl=en
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-9466-1843
