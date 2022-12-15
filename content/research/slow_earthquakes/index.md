@@ -26,7 +26,6 @@ authors:
 - maubantl
 - mouchonc
 - qwang
-- wbfrank
 ---
 
 **Earthquake sciences changed significantly in the past decades with, in particular, the discovery of slow-deformation processes in addition to ordinary earthquakes.  Those slow earthquakes play a major role in the earthquake cycle, but their physical mechanisms remain poorly understood. New methods and multi-disciplinary focused studies allow us now to expand our frontier in slow earthquake science complexity and diversity. We use geophysical methods such as InSAR analysis, geodetic solutions, and seismic catalogs as our main research tools to explore this field.**

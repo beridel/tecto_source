@@ -4,15 +4,15 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 3  # Order that this section will appear.
 
 title = "Recent News"
 subtitle = ""
 
 [content]
   page_type = "post"
-  count = 5
+  count = 10
   offset = 0
   order = "desc"
   [content.filters]
@@ -34,7 +34,7 @@ subtitle = ""
   # 2 = compact
   # 3 = card
   # 4 = citation (publications only)
-  view = 2
+  view = 1
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.

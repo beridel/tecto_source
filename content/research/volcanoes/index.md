@@ -14,7 +14,6 @@ url_slides: ""
 url_video: ""
 authors:
 - jtbryan
-- wbfrank
 ---
 
 **Reliable forecasts of volcanic activity rely on observations of where magma is stored within the lithosphere and how it migrates from its mantle source towards the surface. Over the last decade, conceptual models of magma storage have shifted from a single long-lived magma chamber to a vertically extensive, structurally complex, and rapidly evolving plumbing system. This complexity emphasizes the need for detailed images of magma storage, as well as continuous monitoring of magma transport. We are developing new observational methods to capture the 4D evolution of active magmatic plumbing systems.**
