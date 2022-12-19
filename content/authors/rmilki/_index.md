@@ -33,5 +33,5 @@ user_groups:
 - Group members
 ---
 
-Rania Milki is an Undergraduate student studying at [Massachusetts Institute of Technology](https://www.mit.edu) and [Imperial College London](https://www.imperial.ac.uk). Currently, she is working with Assistant Professor William Frank to develop a machine learning model to detect and locate tectonic tremor with a single seismic station.
+Rania Milki is an Undergraduate student studying at [Massachusetts Institute of Technology](https://www.mit.edu) and [Imperial College London](https://www.imperial.ac.uk). Currently, she is working with Assistant Professor William Frank to develop a machine learning model to detect and locate tectonic tremor in Cascadia.
 
