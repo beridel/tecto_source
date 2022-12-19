@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2022-08-25T00:00:00Z"
 external_link: ""
 image:
   caption: The transient and intermittent nature of slow slip (Modified from Jolivet & Frank, 2020)
