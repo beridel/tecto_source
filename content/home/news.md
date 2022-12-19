@@ -12,7 +12,7 @@ subtitle = ""
 
 [content]
   page_type = "post"
-  count = 10
+  count = 5
   offset = 0
   order = "desc"
   [content.filters]
