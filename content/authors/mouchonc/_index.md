@@ -1,7 +1,7 @@
 ---
 authors:
 - mouchonc
-bio: I study slow slip events in subduction zones
+bio: I study slow slip events in subduction zones.
 education:
   courses:
   - course: MSc in Geophysics
