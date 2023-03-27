@@ -15,7 +15,7 @@
 
     {{if $show_logo}}
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand mr-0-5" href="{{ "/" | relLangURL }}">
+      <a class="navbar-brand mr-0-5" href="{{ "/tecto" | relLangURL }}">
         {{- if $has_logo -}}
           <img src="{{ $logo.RelPermalink }}" alt="{{ site.Title }}">
         {{- end -}}
@@ -24,7 +24,7 @@
     {{end}}
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="{{ "/" | relLangURL }}">
+      <a class="navbar-brand" href="{{ "/tecto" | relLangURL }}">
         {{- site.Title -}}
       </a>
     </div>
