@@ -52,7 +52,16 @@ Blabla Louise
 
 Blabla Louise & caro
 
-## Structure of the plate interface
-**_Sous-sous-titre: blabla_**
+## What makes low-frequency earthquakes low frequency?
+**The roles of attenuation and source**
 
-Blabla Qingyu
+Low-frequency earthquakes, atypical seismic events distinct from regular earthquakes, occur downdip of the seismogenic megathrust where an aseismic rheology dominates the subduction plate boundary. The spectra of low-frequency earthquakes are consistent with the classical earthquake model, yet their rupture duration and stress drop are orders of magnitude different from ordinary earthquakes. 
+
+image
+  caption: (Spatiotemporal behavior and spectra of low-frequency and regular earthquakes in the Nankai Trough. (modified from Wang et al., 2023, under review)
+![](fig_qy1.png)
+
+The Nankai Trough, where low frequency earthquakes were first observed, is monitored by a long-term borehole monitoring network that has recorded low-frequency earthquakes in the same epicentral area as both crustal and intraslab earthquakes. We focus on two depth columns directly beneath two seismic stations where the subduction interface is sandwiched between earthquakes above and below, with one depth column hosting low-frequency earthquakes and the other not. With this unique seismic geometry, we investigate the endmember possibilities of attenuation experienced by low-frequency earthquakes to isolate their source process. Through this natural controlled experiment, we place key constraints on the character of the low-frequency earthquake source to address the outstanding question: **_what makes low-frequency earthquakes low frequency?_**
+
+We observe that the source regions of the low frequency earthquakes are marked by high pore fluid pressure indicated by high _Qp/Qs_ and _Vp/Vs_ ratios. This suggests that local variations in the rheology of this transitional zone, just downdip of where major earthquakes occur and where slow fault slip dominates the tectonic slip budget, are responsible for earthquakes that rupture an order of magnitude more slowly than is typical. An atypical rupture mechanism associated with this rheology, likely governed by processes linked to saturated fault conditions at the plate boundary, is necessary to explain the low-frequency earthquake source. We conclude their low-frequency nature primarily results from an atypical seismic rupture process rather than near-source attenuation. Attenuation is not what makes low-frequency earthquakes low frequency.
+
