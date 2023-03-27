@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: Massachusetts Institute of Technology
   url: "https://eapsweb.mit.edu"
-role: Graduate Student
+role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas
