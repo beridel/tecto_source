@@ -10,8 +10,11 @@ publication: "*Geophysical Journal International*"
 doi: "https://doi.org/10.1016/j.epsl.2022.117534"
 group: tecto
 tags:
-- Coupling map
-- Transient deformation
+- earthquake cycle
+- slip models
+- slow slip
+- subduction
+- plate coupling
 - InSAR
 - Mexico
 ---
