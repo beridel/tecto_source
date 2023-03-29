@@ -6,7 +6,7 @@ authors: ["maubantl", "Mathilde Radiguet", "Erwan Pathier", "Marie-Pierre Doin",
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Geophysical Journal International*"
+publication: "*EPSL*"
 doi: "https://doi.org/10.1016/j.epsl.2022.117534"
 group: tecto
 tags:
