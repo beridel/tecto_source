@@ -33,20 +33,20 @@
   url = "software/"
   weight = 5
 
-#[[main]]
-#  name = "Courses"
-#  url = "courses/"
-#  weight = 50
+[[main]]
+  name = "Wiki"
+  url = https://github.com/beridel/tecto_wiki/wiki"
+  weight = 6
 
 [[main]]
   name = "EQSci@MIT"
   url = "../"
-  weight = 6
+  weight = 7
 
 [[main]]
   name = "Contact"
   url = "contact/"
-  weight = 7
+  weight = 8
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
