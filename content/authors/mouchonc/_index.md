@@ -1,7 +1,7 @@
 ---
 authors:
 - mouchonc
-bio: Graduate student
+bio: I study slow slip events in subduction zones.
 education:
   courses:
   - course: MSc in Geophysics
@@ -40,4 +40,4 @@ user_groups:
 ---
 
 Caroline started her PhD as a graduate student majoring in Geophysics at MIT in the Tectonophysics group in 2021. Her research focuses on revealing the physics and dynamics behind slow slip events. She started using both geodetic (GNSS solutions) and seismic (a low-frequency earthquake catalog) datasets to track the temporal evolution of slow slip events at high sampling rates in Guerrero, Mexico. Currently, she is looking at seismic velocity changes before, during and after a large slow slip event that occured in Mexico in 2006.
-She will also start working on a second project about ice dynamics in September 2022 by trying to understand how ice deform. The main motivation is to be able to calibrate the ice flow law that describe ice deformation using satellite imagery surface motion data. 
+She also start works on a second project about ice dynamics in glaciers. The main motivation is to be able to calibrate the ice flow law that describe ice deformation using satellite imagery surface motion data. 
