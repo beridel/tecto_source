@@ -35,7 +35,7 @@
 
 [[main]]
   name = "Wiki"
-  url = https://github.com/beridel/tecto_wiki/wiki"
+  url = "https://github.com/beridel/tecto_wiki/wiki"
   weight = 6
 
 [[main]]
