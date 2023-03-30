@@ -1,7 +1,7 @@
 ---
 authors:
 - faden
-bio: Postdoctoral Researcher
+bio: I am interested in the statistical behavior of earthquakes.
 education:
   courses:
   - course: PhD in Seismology
