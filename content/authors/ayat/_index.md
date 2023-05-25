@@ -1,7 +1,7 @@
 ---
 authors:
 - ayat
-bio: Graduate student
+bio: I study the earthquake source.
 education:
   courses:
   - course: MSc in Earth and Planetary Sciences
@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: Massachusetts Institute of Technology
   url: "https://eapsweb.mit.edu"
-role: Graduate Student
+role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas
