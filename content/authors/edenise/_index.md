@@ -1,14 +1,14 @@
 ---
 authors:
 - edenise
-bio: Master's student at Ecole normale supérieure, Paris
+bio: Master's Student at Ecole Normale Supérieure, Paris
 education:
   courses:
   - course: MSc in Geosciences
-    institution: Ecole normale supérieure, Paris
+    institution: Ecole Normale Supérieure, Paris
     year: ongoing
   - course: BSc in Geosciences
-    institution: Ecole normale supérieure, Paris
+    institution: Ecole N`ormale Supérieure, Paris
     year: 2022
 email: "edenise@mit.edu"
 interests:
@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: Ecole normale supérieure, Paris
   url: "https://www.geosciences.ens.fr/"
-role: Master's student
+role: Master's Student
 social:
 - icon: envelope
   icon_pack: fas
