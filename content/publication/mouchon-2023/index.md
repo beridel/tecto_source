@@ -1,5 +1,5 @@
 ---
-title: "Subdaily Slow Fault Slip Dynamics Captured by Low-Frequency Earthquakes"
+title: "Subdaily slow fault slip dynamics captured by low-frequency earthquakes"
 date: 2023-06-28
 publishDate: 2023-06-28T00:00:00.000000Z
 authors: ["mouchonc", "wbfrank", "radiguet", "ppoli", "Nathalie Cotte"]
