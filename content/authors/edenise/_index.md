@@ -33,6 +33,6 @@ social:
 superuser: false
 title: Emile Denise
 user_groups:
-- Group members
+- Alumni
 ---
-Emile is a student at [Ecole normale supérieure](https://www.geosciences.ens.fr/) in Paris. As part of his Master's degree in Geosciences, he is currently doing an internship at [MIT](https://eapsweb.mit.edu) supervised by William Frank and Louise Maubant. His work focuses on the characterization and mitigation of systematic phase biases which distort the interseismic tectonic signal in InSAR displacement time series. This project has been carried out on the Hikurangi subduction zone in New Zealand over the past ten years.
+Emile is a student at [Ecole normale supérieure](https://www.geosciences.ens.fr/) in Paris. As part of his Master's degree in Geosciences, he did an internship at [MIT](https://eapsweb.mit.edu) supervised by William Frank and Louise Maubant. His work focused on the characterization and mitigation of systematic phase biases which distort the interseismic tectonic signal in InSAR displacement time series. This project has been carried out on the Hikurangi subduction zone in New Zealand over the past ten years.
