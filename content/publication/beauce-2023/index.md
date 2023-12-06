@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "BPMF: A backprojection and matched-filtering workflow for automated earthquake detection and location"
 date: 2023-12-04
 publishDate: 2023-12-04T17:59:35.749409Z
 authors: ["ebeauce", "wbfrank", "lseydoux", "ppoli", "Robert D van der Hilst", "Michel Campillo"]
