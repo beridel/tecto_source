@@ -1,0 +1,19 @@
+---
+title: "Along-strike segmentation of seismic tremor and its relationship with the hydraulic structure of the subduction fault zone"
+date: 2023-11-28
+publishDate: 2023-11-28T17:59:35.747467Z
+authors: ["gfarge", "Claude Jaupart", "wbfrank", "Nikolaï M Shapiro"]
+publication_types: ["2"]
+abstract: "Along the strike of subduction zones, tectonic tremor episodicity is segmented on a geologic scale. Here, we study how this segmentation reflects large-scale variations of the structure and conditions of the fault interface where tremor is generated. We try to understand which properties of the hydraulic system of the fault allow elementary tremor sources to synchronize, leading to the emergence of long-period, large-scale episodic activity. We model tremor sources as being associated with rapid openings of low-permeability valves in the fault zone, which channels the upward flow of metamorphic fluids. Valve openings cause pressure transients that allow interaction between sources. In such a system, tremor activity is thus controlled by unsteady fluid circulation. Using numerical simulations of fluid flow, we explore the impact of valve spatial distribution and fluid flux on the emergence of large-scale patterns of tremor activity. We show that when valves are densely distributed and submitted to near-critical input flux, they synchronize and generate more episodic activity. Based on our model, the most periodic and spatially coherent tremor bursts should thus be emitted from segments densely populated with valves, and therefore of lower permeability than less synchronized segments. The collective activity of their valve population is responsible for fluid-pressure cycling at the subduction scale. In the tremor zone of Shikoku, Japan, the most temporally clustered segment coincides with a downgoing seamount chain, suggesting that the segmentation of the fault zone permeability, and hence of tremor activity, could be inherited from the topography of the subducting oceanic plate."
+featured: false
+publication: "*Journal of Geophysical Research: Solid Earth*"
+doi: "10.1029/2023JB027584"
+group: tecto
+tags:
+- subduction
+- low-frequency earthquakes
+- earthquake source
+- Mexico
+- fluids
+---
+
