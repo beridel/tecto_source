@@ -20,8 +20,8 @@ interests:
  - Remote Sensing
 
 organizations:
-- name: Massachusetts Institute of Technology
-  url: "https://eapsweb.mit.edu"
+- name: Australian National University
+  url: "https://anu.edu.au"
 role: Postdoctoral Associate
 social:
 - icon: envelope
@@ -40,6 +40,6 @@ social:
 superuser: false
 title: Louise Maubant
 user_groups:
-- Group members
+- Alumni
 ---
 Louise Maubant is a geophysicist working on observing and understanding transient slip and the seismic cycle in subduction zones. During her PhD, she studied the seismic cycle along the Mexican subduction zone by combining InSAR and GPS data. One of the main challenges of her research was to decompose the signals contained in the InSAR time series, in order to extract the tectonic signal from the atmospheric signal. Using methods such as blind source separation (BSI), she showed that it was possible to observe deformation due to slow slip events (SSE) in the Guerrero region, but also aseismic deformation due to large-scale interseismic loading. The integration of InSAR data has demonstrated the importance of having geodetic observations with the best possible spatial coverage once again. She is now studying the Hikurangi subduction by conducting a large-scale study of the seismic cycle in this region using InSAR, GPS and seismological data.

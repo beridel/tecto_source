@@ -21,8 +21,8 @@ interests:
  - Seismic monitoring
 
 organizations:
-- name: Massachusetts Institute of Technology
-  url: "https://eapsweb.mit.edu"
+- name: Institut des Sciences de la Terre
+  url: "https://www.isterre.fr"
 role: Postdoctoral Associate
 social:
 - icon: envelope
