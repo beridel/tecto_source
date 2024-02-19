@@ -21,7 +21,7 @@ interests:
  - Earthquakes
 organizations:
 - name: Massachusetts Institute of Technology
-  url: "https://erlweb.mit.edu/users/hdortizmitedu"
+  url: "https://eaps.mit.edu"
 role: Molina Postdoctoral Fellow
 social:
 - icon: envelope
