@@ -14,7 +14,7 @@ interests:
 organizations:
 - name: Wellesley College
   url: "https://www.wellesley.edu/academics/department/geosciences"
-role: Undergrad student
+role: Undergrad Student
 social:
 - icon: envelope
   icon_pack: fas
