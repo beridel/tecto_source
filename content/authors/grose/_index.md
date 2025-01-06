@@ -25,4 +25,4 @@ user_groups:
 - Group members
 ---
 
-Gabby is an undergrad student working in the Tectonophysics group since summer 2024. Her research has been focused on the rupture behavior of low-frequency earthquakes and tectonic tremor. You can see her summer 2024 research poster [here](files/grose_poster_2024.pdf)! 
+Gabby is an undergrad student working in the Tectonophysics group since summer 2024. Her research has been focused on the rupture behavior of low-frequency earthquakes and tectonic tremor. You can see her summer 2024 research poster [here](grose_poster_2024.pdf)! 
