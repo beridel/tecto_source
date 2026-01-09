@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Rheological and tectonic implications of eastern Tibet: Insights from early aftershock sequences driven by afterslip following three 2021–2022 moderate-large events"
 date: 2025-09-01
 publishDate: 2025-09-01T00:00:00.000000Z
 authors: ["Xiaoge Liu", "Wenbin Xu", "wbfrank", "Yijian Zhou", "Guoqiang Zhao", "Ligua Fang", "Hui Huang", "Lijia He", "Weijun Gan"]
