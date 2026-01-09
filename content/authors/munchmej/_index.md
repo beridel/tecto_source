@@ -13,13 +13,13 @@ interests:
 - Machine learning
 - Seismic-aseismic interaction
 organizations:
-- name: Massachusetts Institute of Technology 
-  url: "https://eapsweb.mit.edu"
+- name: GFZ Helmholtz-Zentrum für Geoforschung
+  url: "https://www.gfz.de"
 role: Postdoctoral Fellow
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:munchmej@mit.edu'
+  link: 'mailto:jannes.muenchmeyer@gfz.de'
 - icon: globe
   icon_pack: fas
   link: 'https://munchmeyer.de/'
@@ -29,10 +29,10 @@ social:
 superuser: false
 title: Jannes Münchmeyer
 user_groups:
-- Group members
+- Alumni
 ---
 
-Jannes is a visiting Marie Curie postdoctoral fellow working with Prof William Frank and visiting EAPS from June to December 2024.
+Jannes was a visiting Marie Curie postdoctoral fellow working with Prof. William Frank and visiting EAPS from June to December 2024.
 Within the project DECODE, Jannes works on understanding seismic-aseismic interaction in subduction zone.
 To this end, he is developing and applying machine learning methods for the detection of low-frequency earthquakes.
 Previously, Jannes worked on earthquake rupture predictability, real time assessment of earthquakes, and machine learning methods for earthquake detection.
