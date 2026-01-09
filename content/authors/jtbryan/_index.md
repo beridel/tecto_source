@@ -10,6 +10,9 @@ education:
   - course: BSc in Geology
     institution: Utah State University
     year: 2020
+  - couse: PhD in Geophysics
+    institution: Massachusetts Institute of Technology
+    year: 2025
 email: "jtbryan@mit.edu"
 interests:
 - Earthquakes
@@ -19,7 +22,7 @@ interests:
 organizations:
 - name: Massachusetts Institute of Technology
   url: "https://eapsweb.mit.edu"
-role: PhD Candidate
+role: Research Specialist
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,4 +45,4 @@ user_groups:
 - Group members
 ---
 
-Jared Bryan started in 2020 as a PhD student in the Tectonophysics group at MIT. His research is focused on understanding magma storage and transport at volcanoes through time-lapse seismic monitoring. He has worked on developing a monitoring technique based on receiver functions, which are uniformly sensitive to velocity changes throughout the transcrustal plumbing system. He applied this method to a quiescent period at Mount St. Helens, where he measured seismic velocity changes in response to deformation from slow slip events in Cascadia. Next, he plans to study active magma transport at Kilauea volcano in Hawai'i. He carried out his second project with Dr. Julien de Wit on the topic of tidal migration of exoplanets.
+Jared Bryan recently graduated in November 2025, aftering as a PhD Student in 2020 in the Tectonophysics group at MIT. His research is focused on understanding magma storage and transport at volcanoes through time-lapse seismic monitoring. He has worked on developing a monitoring technique based on receiver functions, which are uniformly sensitive to velocity changes throughout the transcrustal plumbing system. He applied this method to a quiescent period at Mount St. Helens, where he measured seismic velocity changes in response to deformation from slow slip events in Cascadia. Next, he plans to study active magma transport at Kilauea volcano in Hawai'i. He carried out his second project with Dr. Julien de Wit on the topic of tidal migration of exoplanets.
