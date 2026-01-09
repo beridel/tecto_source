@@ -7,7 +7,9 @@ education:
   - course: BSc in Geosciences
     institution: Wellesley College
     year: 2025
-email: "gr102@wellesley.edu"
+  - course: PhD in Geosciences
+    institution: Stanford University
+email: "grose@stanford.edu"
 interests:
  - Earthquakes
  - Subduction zones
@@ -18,11 +20,11 @@ role: Undergrad Student
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:gr102@wellesley.edu'
+  link: 'mailto:grose@stanford.edu'
 superuser: false
 title: Gabby Rose
 user_groups:
-- Group members
+- Alumni
 ---
 
-Gabby is an undergrad student working in the Tectonophysics group since summer 2024. Her research has been focused on the rupture behavior of low-frequency earthquakes and tectonic tremor. You can see her summer 2024 research poster [here]({{< resource url="/files/grose_poster_2024.pdf" >}})!
+Gabby was an undergrad student working in the Tectonophysics group during the summer and fall of 2024. She's now a graduate student at Stanford University. Her research has been focused on the rupture behavior of low-frequency earthquakes and tectonic tremor. You can see her summer 2024 research poster [here]({{< resource url="/files/grose_poster_2024.pdf" >}})!
