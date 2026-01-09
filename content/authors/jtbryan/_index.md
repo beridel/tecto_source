@@ -10,7 +10,7 @@ education:
   - course: BSc in Geology
     institution: Utah State University
     year: 2020
-  - couse: PhD in Geophysics
+  - course: PhD in Geophysics
     institution: Massachusetts Institute of Technology
     year: 2025
 email: "jtbryan@mit.edu"
