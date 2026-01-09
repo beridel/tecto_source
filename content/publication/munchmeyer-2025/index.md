@@ -1,0 +1,19 @@
+---
+title: "A systematic search for tectonic tremor and low‐frequency earthquakes in the Atacama segment of the Chilean subduction zone turns up empty"
+date: 2025-09-09
+publishDate: 2025-09-09T00:00:00.000000Z
+authors: ["munchmej", "wbfrank", "Sophie Giffard-Roisin", "David Marsan", "Frederik Tilmann", "Marcos Moreno", "Anne Socquet"]
+publication_types: ["2"]
+abstract: "Subduction megathrusts release stress not only seismically through earthquakes, but also through creep and transient slow deformation, called slow slip events (SSEs). Understanding the interplay between fast and slow slip is essential for illuminating the deformation processes on the subduction interface. The Chilean subduction margin, while one of the most seismically active regions worldwide, has few reports of SSEs. Furthermore, there are no comprehensive reports of tectonic tremors or low-frequency earthquakes (LFEs), seismic signals typically accompanying SSEs, tracking deformation at small spatial and temporal scales. Here, we perform a systematic search for tectonic tremors and LFEs in the Atacama segment in Northern Chile, a region hosting both shallow and deep SSEs. Using dense seismic networks, we investigate 3.3 years between November 2020 and February 2024. Due to the network geometry, we focus on deep tremor and LFEs. We apply two complementary methods, envelope correlation for tremor search and deep learning detection for LFEs, to generate initial catalogs. To validate the potential detections, we use clustering, matched filtering, heuristics, and extensive manual inspection. While our initial search provides numerous candidates, after verification, we find no evidence for tectonic tremor or LFEs in the region. In contrast, our approaches successfully recover tremors and LFEs in two reference regions outside Chile with known tremor and LFE activity. Our observations show that tremors and LFEs in Northern Chile are either of lower moment rate than in other regions, have substantially longer recurrence rates, or are absent altogether, potentially due to the cold subduction."
+featured: false
+publication: "*Journal of Geophysical Research: Solid Earth*"
+doi: "https://doi.org/10.1029/2025JB031283"
+group: tecto
+tags:
+- low-frequency earthquakes
+- detection
+- high-performance computing
+- machine learning
+- Chile
+---
+
