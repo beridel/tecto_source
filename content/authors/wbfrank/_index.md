@@ -21,7 +21,7 @@ interests:
 organizations:
 - name: Massachusetts Institute of Technology
   url: "https://eapsweb.mit.edu"
-role: Assistant Professor
+role: Associate Professor
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,9 +38,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/beridel
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/w_b_frank
 - icon: cv
   icon_pack: ai
   link: files/wbfrank_cv.pdf
