@@ -39,7 +39,7 @@ social:
 superuser: false
 title: Hugo D. Ortiz
 user_groups:
-- Group members
+- Alumni
 ---
 
-Hugo Ortiz is a Molina Postdoctoral Fellow at the Massachusetts Institute of Technology and an Assistant Professor at Pontificia Universidad Católica del Ecuador. He applies and develops geophysical methods to study volcanoes, the atmosphere, and other Earth processes that produce acoustic and/or seismic signatures. Hugo also enjoys trail running, biking, hiking steep slopes, gardening, and reading science fiction novels.  
+Hugo Ortiz was a Molina Postdoctoral Fellow at the Massachusetts Institute of Technology and an Assistant Professor at Pontificia Universidad Católica del Ecuador. He applies and develops geophysical methods to study volcanoes, the atmosphere, and other Earth processes that produce acoustic and/or seismic signatures. Hugo also enjoys trail running, biking, hiking steep slopes, gardening, and reading science fiction novels.  
