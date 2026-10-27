@@ -20,13 +20,13 @@ interests:
 - Receiver functions
 - Ambient Seismic Noise
 organizations:
-- name: Massachusetts Institute of Technology
-  url: "https://eapsweb.mit.edu"
-role: Research Specialist
+- name: Lamont-Doherty Earth Observatory, Columbia University
+  url: "https://www.ldeo.columbia.edu/"
+role: Postdoctoral Fellow
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jtbryan@mit.edu'
+  link: 'mailto:jtbryan@ldeo.columbia.edu'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=w-QWLhoAAAAJ&hl=en
